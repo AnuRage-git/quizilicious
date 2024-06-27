@@ -7,9 +7,9 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/select";
-import { Button } from "@/components/button";
-import { Slider } from "@/components/slider";
+} from "@/components/ui/select";
+import { Button } from "@/components/ui/button";
+import { Slider } from "@/components/ui/slider";
 import { categoryOptions, difficultyOptions } from "@/constants";
 
 const QuizSettings = () => {
